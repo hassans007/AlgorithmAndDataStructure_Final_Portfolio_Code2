@@ -1,4 +1,4 @@
-# Practical 12: Publication System
+# Alogrithm and Data Structure Practical 12: Publication System
 
 ## Overview
 
